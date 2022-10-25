@@ -1,3 +1,14 @@
 /Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q14.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q10.dir
 /Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/WTIAU_Prof_Gholamy_DS_011_306.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q9.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q8.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q7.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q3.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q1.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q16.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q6.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q15.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q11.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/C1Q2.dir
