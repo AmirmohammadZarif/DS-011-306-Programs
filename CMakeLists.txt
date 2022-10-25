@@ -16,8 +16,5 @@ add_executable(C1Q14 Chapter1/Q14.cpp)
 add_executable(C1Q15 Chapter1/Q15.cpp)
 add_executable(C1Q16 Chapter1/Q16.cpp)
 
-#add_executable(WTIAU_Prof_Gholamy_DS_011_306 Chapter1/Q14.cpp)
-
-
 
 
