@@ -1,0 +1,3 @@
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amirmohammad/CLionProjects/DS-011-306-Programs/cmake-build-debug/CMakeFiles/WTIAU_Prof_Gholamy_DS_011_306.dir
