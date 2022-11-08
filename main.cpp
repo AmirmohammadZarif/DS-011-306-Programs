@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    // TODO: Question and examples launcher (Requires header files)
+
     return 0;
 }
